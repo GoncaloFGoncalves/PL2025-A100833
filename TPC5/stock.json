@@ -1,0 +1,64 @@
+{
+    "stock": [
+        {
+            "cod": "A23",
+            "nome": "Água Mineral 1L",
+            "quant": 12,
+            "preco": 1.5
+        },
+        {
+            "cod": "B13",
+            "nome": "Pacote de Salgadinhos",
+            "quant": 20,
+            "preco": 1.8
+        },
+        {
+            "cod": "C31",
+            "nome": "Barra de Cereal",
+            "quant": 8,
+            "preco": 1.2
+        },
+        {
+            "cod": "D05",
+            "nome": "Suco de Frutas",
+            "quant": 18,
+            "preco": 2.0
+        },
+        {
+            "cod": "E18",
+            "nome": "Sanduíche de Presunto",
+            "quant": 5,
+            "preco": 4.0
+        },
+        {
+            "cod": "F15",
+            "nome": "Salada de Frutas",
+            "quant": 3,
+            "preco": 3.8
+        },
+        {
+            "cod": "G02",
+            "nome": "Biscoitos Recheados",
+            "quant": 10,
+            "preco": 1.0
+        },
+        {
+            "cod": "H20",
+            "nome": "Balas de Goma",
+            "quant": 15,
+            "preco": 1.5
+        },
+        {
+            "cod": "I12",
+            "nome": "Banana",
+            "quant": 20,
+            "preco": 0.5
+        },
+        {
+            "cod": "J09",
+            "nome": "Pacote de Castanhas",
+            "quant": 2,
+            "preco": 2.5
+        }
+    ]
+}
